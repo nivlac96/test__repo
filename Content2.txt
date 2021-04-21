@@ -4,4 +4,4 @@ be even more
 useless text?
 Not me, not me
 
-This change will only appear on master
+This will be in the first commit
